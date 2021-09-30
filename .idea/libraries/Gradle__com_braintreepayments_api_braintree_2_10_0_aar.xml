@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:braintree:2.10.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/112b77026716958a51ab27e4dd9ef9ad/jetified-braintree-2.10.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/304ae9128709a9c60089ab0ac96560d9/jetified-braintree-2.10.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/886c1fc76ff905bf913463345ff3ea0a/jetified-braintree-2.10.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/112b77026716958a51ab27e4dd9ef9ad/jetified-braintree-2.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/112b77026716958a51ab27e4dd9ef9ad/jetified-braintree-2.10.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/304ae9128709a9c60089ab0ac96560d9/jetified-braintree-2.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/304ae9128709a9c60089ab0ac96560d9/jetified-braintree-2.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/304ae9128709a9c60089ab0ac96560d9/jetified-braintree-2.10.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/886c1fc76ff905bf913463345ff3ea0a/jetified-braintree-2.10.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/886c1fc76ff905bf913463345ff3ea0a/jetified-braintree-2.10.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/886c1fc76ff905bf913463345ff3ea0a/jetified-braintree-2.10.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/braintree/2.10.0/f61e163a0ab2e135f31f2aeb83ec27f5cf69fed0/braintree-2.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/braintree/2.10.0/d7988954e22a3d23a1bcf41af01a420accfb1960/braintree-2.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

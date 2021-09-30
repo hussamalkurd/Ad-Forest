@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:drop-in:3.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33896107e03d91ba426da6ca4f7b92d5/jetified-drop-in-3.3.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72557cc25326ee61f34058e8af83ec48/jetified-drop-in-3.3.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/448c3f6cf6e64f506bab0ea987b244b3/jetified-drop-in-3.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33896107e03d91ba426da6ca4f7b92d5/jetified-drop-in-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33896107e03d91ba426da6ca4f7b92d5/jetified-drop-in-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72557cc25326ee61f34058e8af83ec48/jetified-drop-in-3.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72557cc25326ee61f34058e8af83ec48/jetified-drop-in-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72557cc25326ee61f34058e8af83ec48/jetified-drop-in-3.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/448c3f6cf6e64f506bab0ea987b244b3/jetified-drop-in-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/448c3f6cf6e64f506bab0ea987b244b3/jetified-drop-in-3.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/448c3f6cf6e64f506bab0ea987b244b3/jetified-drop-in-3.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/3.3.0/1cf3e260b168577c480d9d98a762385ab0d738cc/drop-in-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/3.3.0/6bc8474351303d188ba09e95162cb7dc41032bec/drop-in-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

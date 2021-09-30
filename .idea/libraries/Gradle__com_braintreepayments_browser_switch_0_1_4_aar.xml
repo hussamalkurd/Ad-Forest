@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments:browser-switch:0.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c99ad0cd045931aaeedafe96515f46d/jetified-browser-switch-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c99ad0cd045931aaeedafe96515f46d/jetified-browser-switch-0.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84257fccaba07041ad308d12d5d7ab4d/jetified-browser-switch-0.1.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84257fccaba07041ad308d12d5d7ab4d/jetified-browser-switch-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84257fccaba07041ad308d12d5d7ab4d/jetified-browser-switch-0.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e73c01e0794955de70e080596e08d32/jetified-browser-switch-0.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e73c01e0794955de70e080596e08d32/jetified-browser-switch-0.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e73c01e0794955de70e080596e08d32/jetified-browser-switch-0.1.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments/browser-switch/0.1.4/d97bd3eb19f270f8c0e80496e67bb86dd4b4fd5a/browser-switch-0.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments/browser-switch/0.1.4/28bb9eb062100c598622ad54c459b2a2343f3020/browser-switch-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

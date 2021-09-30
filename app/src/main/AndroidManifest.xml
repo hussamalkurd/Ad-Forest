@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.hussam.matricball">
+
+    <uses-sdk tools:overrideLibrary="android.support.v17.leanback" />
+    <!-- for card.io card scanning -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher1"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher1_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:replace="android:icon">
+        <activity android:name=".NewProductsActivity"></activity>
+        <activity android:name=".AddProductsActivity" />
+        <activity android:name=".CategoriesNewAddActivity" />
+        <activity android:name=".AddNewCategories" />
+        <activity android:name=".packages.AuthorizeNet" />
+        <activity
+            android:name=".MTN.ThankYouMoMoNote"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MTN.MomoVerification"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MTN.MomoPayActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".home.ChooseLocationActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".home.SearchLocationLatLongActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".MainActivityNew" />
+        <activity android:name=".Mens.MensActivity" />
+        <activity android:name=".AdminImageActivity" />
+        <activity android:name=".RegisterService" />
+        <activity android:name=".HomeActivityNew" />
+        <activity android:name=".ProductDetailsActivity" />
+        <activity android:name=".AdminCategoryActivity" />
+        <activity android:name=".AdminAddNewProductActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".AdminActivity" />
+        <activity android:name=".BaintreeActivity" />
+        <activity android:name=".PaymentDetails" />
+        <activity android:name=".PayPalActivity" />
+        <activity android:name=".Mens.Hair.HairMensAdminActivity" />
+        <activity android:name=".Mens.Hair.HairMensActivity" />
+        <activity android:name=".Mens.Hair.HairDetailsActivity" />
+        <activity android:name=".Mens.Shoes.ShoesMensAdminActivity" />
+        <activity android:name=".Mens.Shoes.ShoesMensActivity" />
+        <activity android:name=".Mens.Shoes.ShoesDetailsActivity" />
+        <activity android:name=".Mens.Watches.WatchesMensAdminActivity" />
+        <activity android:name=".Mens.Watches.WatchesMensActivity" />
+        <activity android:name=".Mens.Watches.WatchesDetailsActivity" />
+        <activity android:name=".Mens.Clothes.ClothesMensActivity" />
+        <activity android:name=".Mens.Clothes.ClothesMensAdminActivity" />
+        <activity android:name=".Mens.Clothes.ClothesDetailsActivity" />
+        <activity android:name=".Mens.MensAdminActivity" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity
+            android:name="com.braintreepayments.api.BraintreeBrowserSwitchActivity"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="${applicationId}.braintree" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".home.ChooseLanguageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".SplashScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".signinorup.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".home.HomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:uiOptions="splitActionBarWhenNarrow"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Search.SearchActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hussam.matricball.home.HomeActivity" />
+        </activity>
+        <activity
+            android:name=".messages.Message"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hussam.matricball.home.HomeActivity" />
+        </activity>
+        <activity
+            android:name=".messages.ChatActivity"
+            android:parentActivityName=".messages.Message"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hussam.matricball.messages.Message" />
+        </activity>
+        <activity
+            android:name=".home.AddNewAdPost"
+            android:parentActivityName=".home.HomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hussam.matricball.home.HomeActivity" />
+        </activity>
+        <activity
+            android:name=".home.EditAdPost"
+            android:parentActivityName=".home.HomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hussam.matricball.home.HomeActivity" />
+        </activity>
+        <activity
+            android:name=".packages.Thankyou"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ad_detail.Ad_detail_activity"
+            android:parentActivityName=".home.HomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hussam.matricball.home.HomeActivity" />
+        </activity>
+        <activity
+            android:name=".packages.StripePayment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".packages.InAppPurchaseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Shop.shopActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hussam.matricball.home.HomeActivity" />
+        </activity>
+        <activity
+            android:name=".Settings.Settings"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hussam.matricball.home.HomeActivity" />
+        </activity>
+        <activity
+            android:name=".ad_detail.full_screen_image.FullScreenViewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name="com.paypal.android.sdk.payments.PaymentActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.LoginActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.PaymentMethodActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.PaymentConfirmActivity" /> <!-- Full screen image Viewer -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/Admob_app_id" /> <!-- Google Analytcis -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyA3kIpP1CjCCtXrgiDNgiDcPQ2i9llwTug" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <receiver
+            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH" />
+            </intent-filter>
+        </receiver> <!-- Google Analytics -->
+        <!-- Firebase Notifications -->
+        <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver> <!-- <service -->
+        <!-- android:name=".Notification.MyFirebaseInstanceIDService" -->
+        <!-- &gt; -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="com.google.firebase.MESSAGING_EVENT"/> -->
+        <!-- </intent-filter> -->
+        <!-- </service> &lt;!&ndash; ./Firebase Notifications &ndash;&gt; -->
+        <!-- PayPal -->
+        <receiver android:name=".utills.NoInternet.NetwordStateManager">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false" />
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
+        <service
+            android:name=".Notification.MyFirebaseMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.paypal.android.sdk.payments.PayPalService"
+            android:exported="false" /> <!-- <activity -->
+        <!-- android:name="io.card.payment.CardIOActivity" -->
+        <!-- android:configChanges="keyboardHidden|orientation" /> -->
+        <!-- <activity android:name="io.card.payment.DataEntryActivity" /> -->
+        <!-- PayPal -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+</manifest>

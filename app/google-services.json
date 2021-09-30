@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47869756600",
+    "firebase_url": "https://matricballapp.firebaseio.com",
+    "project_id": "matricballapp",
+    "storage_bucket": "matricballapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47869756600:android:bc3639a7953c91f75b604d",
+        "android_client_info": {
+          "package_name": "com.hussam.matricball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47869756600-hiruinulshqv4uc6seh5toq46an0cl1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hussam.matricball",
+            "certificate_hash": "ccf3fa1adb9156fdfc67ffe68adabf4c64d71652"
+          }
+        },
+        {
+          "client_id": "47869756600-qd1gvblrh1dbqd97km158qkltf3vlmkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkccaZ009IZbxIqFH8LimLfP1lC8tq9Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47869756600-qd1gvblrh1dbqd97km158qkltf3vlmkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

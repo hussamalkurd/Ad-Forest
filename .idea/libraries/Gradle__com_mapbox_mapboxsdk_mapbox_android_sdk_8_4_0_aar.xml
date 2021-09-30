@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c80392d744aeec09f73deeb0a4681f/jetified-mapbox-android-sdk-8.4.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bb94163865631be661834900780546b/jetified-mapbox-android-sdk-8.4.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3534c3a578157bef327861c4a0776cd/jetified-mapbox-android-sdk-8.4.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c80392d744aeec09f73deeb0a4681f/jetified-mapbox-android-sdk-8.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6c80392d744aeec09f73deeb0a4681f/jetified-mapbox-android-sdk-8.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bb94163865631be661834900780546b/jetified-mapbox-android-sdk-8.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bb94163865631be661834900780546b/jetified-mapbox-android-sdk-8.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bb94163865631be661834900780546b/jetified-mapbox-android-sdk-8.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3534c3a578157bef327861c4a0776cd/jetified-mapbox-android-sdk-8.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3534c3a578157bef327861c4a0776cd/jetified-mapbox-android-sdk-8.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3534c3a578157bef327861c4a0776cd/jetified-mapbox-android-sdk-8.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-sdk/8.4.0/586aff28582cca8bf58a132931e18aa30b86fa59/mapbox-android-sdk-8.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-sdk/8.4.0/c36b278731861f940a3df3ddb1c0cee327a86606/mapbox-android-sdk-8.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

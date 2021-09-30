@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ss.bannerslider:bannerslider:1.8.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e6ef18c1619b7d882dd1d72e7e0a0cc/jetified-bannerslider-1.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e6ef18c1619b7d882dd1d72e7e0a0cc/jetified-bannerslider-1.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80483b5b6990ebf58814e3c6d2e5a8f4/jetified-bannerslider-1.8.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80483b5b6990ebf58814e3c6d2e5a8f4/jetified-bannerslider-1.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80483b5b6990ebf58814e3c6d2e5a8f4/jetified-bannerslider-1.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33981e25625c48ae9d3c1fee046fe4f7/jetified-bannerslider-1.8.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33981e25625c48ae9d3c1fee046fe4f7/jetified-bannerslider-1.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33981e25625c48ae9d3c1fee046fe4f7/jetified-bannerslider-1.8.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ss.bannerslider/bannerslider/1.8.0/a703ac9c8869d5cb18de6dae074e0a7ee084f878/bannerslider-1.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ss.bannerslider/bannerslider/1.8.0/90ec1f317a51bf065da12e0f63694cadf032785a/bannerslider-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

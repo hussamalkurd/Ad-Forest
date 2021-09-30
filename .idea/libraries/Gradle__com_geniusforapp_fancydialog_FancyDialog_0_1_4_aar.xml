@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.geniusforapp.fancydialog:FancyDialog:0.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a1ef95fd6aaf20108c790ee2dd3bbf1/jetified-FancyDialog-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a1ef95fd6aaf20108c790ee2dd3bbf1/jetified-FancyDialog-0.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf6af41a0800bdcf770658d53c9692c3/jetified-FancyDialog-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf6af41a0800bdcf770658d53c9692c3/jetified-FancyDialog-0.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf6af41a0800bdcf770658d53c9692c3/jetified-FancyDialog-0.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e65839b8fa38a2ef8b9cddb686bf6ba3/jetified-FancyDialog-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e65839b8fa38a2ef8b9cddb686bf6ba3/jetified-FancyDialog-0.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e65839b8fa38a2ef8b9cddb686bf6ba3/jetified-FancyDialog-0.1.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.geniusforapp.fancydialog/FancyDialog/0.1.4/253030da5acb086e0aeb8824c59e0db2d2afc6f9/FancyDialog-0.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.geniusforapp.fancydialog/FancyDialog/0.1.4/122ae83c70d360202c419409d6276e695d60cca4/FancyDialog-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
